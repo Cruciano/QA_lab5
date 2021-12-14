@@ -1,2 +1,2 @@
 # QA_lab5
-Lab5 KPI QA
+Lab5 and Lab6 KPI QA
